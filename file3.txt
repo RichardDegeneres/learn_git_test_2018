@@ -1,6 +1,0 @@
-1.How to new txt?
-Input: "vi filename.txt"
-Input: qa+ENTER
-2.This is file1.
-3.How to equit?
-Enter ESC + Enter "shift+" + input" :wq! "
