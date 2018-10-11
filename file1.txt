@@ -3,4 +3,4 @@ Input: "vi filename.txt"
 Input: qa (2 times)+ENTER
 2.This is file1.
 3.How to equit?
-Enter ESC + Enter "shift+" + input" :wq! "
+Enter ESC + input" :wq! " +ENTER
